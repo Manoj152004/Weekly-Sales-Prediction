@@ -1,6 +1,20 @@
 
 # Weekly Sales Prediction
 
+# Weekly Sales Prediction
+
+A Machine Learning project that predicts weekly sales using store and economic information.
+
+## 🚀 Live Demo
+**Try the application:** [Click here to open the app](PASTE_YOUR_DEPLOYED_APP_URL_HERE)
+
+## 💻 GitHub Repository
+[View the source code](https://github.com/Manoj152004/Weekly-Sales-Prediction)
+
+## 📌 Project Overview
+This project uses a trained Machine Learning model and Streamlit to predict weekly sales from user-provided inputs.
+
+
 ## About the Project
 This project uses Machine Learning to predict weekly sales based on store information, dates, holidays, temperature, fuel prices, CPI, and unemployment.
 
